@@ -1,0 +1,116 @@
+.header {
+    background-color: rgba(153, 160, 160, 0.363);
+    display: flex;
+    padding: 1em 2em;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+
+}
+
+.menu li {
+    padding: 5px;
+    margin: 3px;
+    /* border: 3px solid gray; */
+    border-style: solid;
+    border-right-width: 2px;
+    border-color: gray;
+
+}
+
+.S {
+    padding: 10px;
+}
+
+
+.F {
+    padding: 10px 10px 10px 10px;
+
+}
+
+.button {
+    padding: 5px 5px 10px 10px;
+}
+
+#main {
+    padding: 10px 10px 10px 10px;
+}
+
+.L {
+    padding: 0px 0px 0px 10px;
+    
+
+}
+
+.abcd {
+    margin-left: 10px;
+    background-color: aqua;
+    border-color: blue;
+
+
+
+}#header{
+    background-color: beige;
+    padding-bottom: 30px;
+}
+.simeon{
+    width: 500px;
+    display: inline-block;
+    border-width: 3px;
+}
+.asd{
+    padding:20px 0px 0px 20px;
+}
+.mugesh{
+    padding-top: 15px;
+}
+.ramesh{
+    padding-top: 15px;
+}
+.jeba{
+    padding-top: 15px;
+}
+.mani{
+    display: flex;
+    padding: 20px 0px 0px 20px;
+    flex-flow: column wrap;
+    
+    /*padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;*/
+    
+    
+    
+    
+}
+/*.subash{
+    display: flex;
+    justify-content: center;
+}*/
+#mugesh{
+    padding-top: 15px;
+}
+#ramesh{
+    padding-top: 15px;
+}
+#jeba{
+    padding-top: 15px;
+}
+#bottom{
+    display: flex;
+    background-color: rgba(234, 250, 142, 0.726);
+    padding-bottom:230px;
+    
+}
+.sam{
+    padding:20px 0px 0px 20px;
+}
+.raja{
+    padding-top:15px;
+}
+
+    /*display: flex;
+}
